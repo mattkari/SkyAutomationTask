@@ -1,0 +1,9 @@
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/URLHelper.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/dto/articles/response/ArticleResponse.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/dto/articles/response/Image.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/dto/articles/Request/ArticleRequest.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/utilities/Requests.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/utilities/SharedObjects.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/runners/FailedTestRunner.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/step_definitions/ArticlesStepDefinitions.java
+/Users/karimov/IdeaProjects/SkyAutomationTask/src/test/java/com/sky/runners/CukesRunner.java
